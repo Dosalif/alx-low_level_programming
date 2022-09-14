@@ -7,7 +7,6 @@
 *
 * Description : use if...else statements to print 
 * if number is positive, negative or zero
-*
 * Return: Always 0 (Success)
 */
 
