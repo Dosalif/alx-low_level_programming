@@ -1,5 +1,4 @@
-#include "main.h"
-#include <stdio.h>
+#include "holberton.h"
 
 /**
 * reset_to_98 - use a pointer to change integer value
