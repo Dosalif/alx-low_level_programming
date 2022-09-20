@@ -1,1 +1,1 @@
-Pointers, array & Strings
+My ALX C programming journey
